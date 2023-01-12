@@ -1,3 +1,13 @@
+# Programming Languages 
+1. Next.js
+2. JavaScript
+3. React
+
+# Description 
+Next.js framework with a counter hosted on Vercel.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
